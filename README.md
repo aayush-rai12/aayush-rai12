@@ -10,8 +10,6 @@
 - 💬 Ask me about **react js**
 - 👀 I’m interested in **Full stack web development** 
 
-- 📫 How to reach me **ayushrais1212@gmail.com**
-
 - 💞️ Open to collaborating on **web development projects, particularly in React.js.** 
 
 - 👨‍💻 All of my projects are available at  https://github.com/aayush-rai12
