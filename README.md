@@ -1,20 +1,35 @@
 <h1 align="center">Hi 👋, I'm Aayush Rai</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">🚀 Full Stack Developer | Passionate Learner | Code + Coffee Enthusiast ☕</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aayush-rai12&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-rai12" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush-rai12&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-rai12" /> </p>
+---
 
-- 🌱 I’m currently learning **react js**
+### 🚀 About Me
 
-- 💬 Ask me about **react js**
-- 👀 I’m interested in **Full stack web development** 
+- 🔭 I’m currently working on: **Zozo Dating App (React.js based unique dating platform)**
+- 🌱 Learning and exploring: **React.js | Node.js | MongoDB | AI/ML concepts**
+- 👀 Interested in: **Full Stack Web Development & AI Integration**
+- 💬 Ask me about: **Frontend Development, Backend Development, React.js, node.js, REST APIs**
+- 🤝 Open to collaborate on: **Full-stack and innovative web development projects**
+- 📂 All my projects live here: [GitHub - aayush-rai12](https://github.com/aayush-rai12)
+- ⚡ Fun Fact: **I debug better after a cup of coffee – it's practically a superpower! ☕💻**
 
-- 💞️ Open to collaborating on **web development projects, particularly in React.js.** 
+---
 
-- 👨‍💻 All of my projects are available at  https://github.com/aayush-rai12
+### 🛠️ Tech Stack
 
-- ⚡ Fun fact **I have a special coding superpower – when I drink more coffee, I can type faster and write more code! ☕️💻**
+```bash ```
+💻 Languages:        JavaScript, HTML, CSS, SQL
+🌐 Frontend:         React.js, Bootstrap, Tailwind CSS
+🛠️ Backend:          Node.js, Express.js
+🗃️ Databases:        MongoDB, MySQL
+🔧 Tools:            Git, Postman, VS Code, Render, Railway
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
