@@ -23,13 +23,51 @@
 
 ### 🛠️ Tech Stack
 
-```bash```
-💻 Languages:        JavaScript, HTML, CSS, SQL
-🌐 Frontend:         React.js, Bootstrap, Tailwind CSS
-🛠️ Backend:          Node.js, Express.js
-🗃️ Databases:        MongoDB, MySQL
-🔧 Tools:            Git, Postman, VS Code, Render, Railway
+- 💻 **Languages:** JavaScript, HTML, CSS, SQL  
+- 🌐 **Frontend:** React.js, Bootstrap, Tailwind CSS  
+- 🛠️ **Backend:** Node.js, Express.js  
+- 🗃️ **Databases:** MongoDB, MySQL  
+- 🔧 **Tools:** Git, Postman/insomnia, VS Code, Render, Cloudinary, MapBox GL  
 
+### 📌 Highlight Projects
+
+#### 🔹 Zozo Dating App
+A modern, mood-based dating platform built using React.js and Vite.
+
+**🔧 Tools & Technologies:**
+- React.js, Node.Js, MongoDB, CSS, Cloudinary,
+- Planning AI features like mood detection and match suggestions
+
+**🚀 Features:**
+- User Authentication (Register/Login) (Completed)
+- Profile creation with image upload (Completed)
+- Mood-based matching logic (in progress)
+- Emotion tracker to help track the user feeling details (Completed)
+- Fully responsive UI
+- Future integrations: AI-based suggestions, gamified swiping
+
+➡️ GitHub: [Zozo Dating App (WIP)](https://github.com/aayush-rai12/zozo-dating)
+
+---
+
+#### 🔹 SkyServe – GeoJSON Visualization App (**Completed**)
+A full-stack web app to upload, manage, and visualize geospatial files on interactive maps.
+
+**🔧 Tools & Technologies:**
+- Vue.js, Mapbox GL JS, Node.js, Express.js, MongoDB, Multer, Turf.js, Cloudinary
+- Postman for API testing, Render for deployment
+
+**🚀 Features:**
+- User authentication and protected routes
+- File upload support: GeoJSON, KML
+- Map visualization using Mapbox
+- Shape drawing/editing (Mapbox Draw)
+- Hover cards with metadata display
+- Area & distance calculation
+- Fully responsive layout
+
+➡️ GitHub: [SkyServe Repo](https://github.com/aayush-rai12/SkyServe_Task)
+🌐 Live Demo: [skyserve-task.onrender.com](https://skyserve-task.onrender.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
