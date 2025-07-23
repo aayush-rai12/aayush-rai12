@@ -16,7 +16,7 @@
 - 👀 Interested in: **Full Stack Web Development & AI Integration**
 - 💬 Ask me about: **Frontend Development, Backend Development, React.js, node.js, REST APIs**
 - 🤝 Open to collaborate on: **Full-stack and innovative web development projects**
-- 📂 All my projects live here: [GitHub - aayush-rai12](https://github.com/aayush-rai12)
+- 📂 All my projects here: [GitHub - aayush-rai12](https://github.com/aayush-rai12)
 - ⚡ Fun Fact: **I debug better after a cup of coffee – it's practically a superpower! ☕💻**
 
 ---
@@ -32,7 +32,7 @@
 ### 📌 Highlight Projects
 
 #### 🔹 Zozo Dating App
-A modern, mood-based dating platform built using React.js and Vite.
+A modern, mood-based dating platform.
 
 **🔧 Tools & Technologies:**
 - React.js, Node.Js, MongoDB, CSS, Cloudinary,
@@ -46,7 +46,7 @@ A modern, mood-based dating platform built using React.js and Vite.
 - Fully responsive UI
 - Future integrations: AI-based suggestions, gamified swiping
 
-➡️ GitHub: [Zozo Dating App (WIP)](https://github.com/aayush-rai12/zozo-dating)
+➡️ GitHub: [Zozo Dating App](https://github.com/aayush-rai12/zozo_dating)
 
 ---
 
