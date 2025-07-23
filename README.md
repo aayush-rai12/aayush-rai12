@@ -23,7 +23,7 @@
 
 ### 🛠️ Tech Stack
 
-```bash ```
+```bash```
 💻 Languages:        JavaScript, HTML, CSS, SQL
 🌐 Frontend:         React.js, Bootstrap, Tailwind CSS
 🛠️ Backend:          Node.js, Express.js
