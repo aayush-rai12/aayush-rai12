@@ -12,6 +12,7 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on: **Zozo Dating App (React.js based unique dating platform)**
+- ✅ Recently completed: **SkyServe** – a full-stack **GeoJSON data visualization** platform
 - 🌱 Learning and exploring: **React.js | Node.js | MongoDB | AI/ML concepts**
 - 👀 Interested in: **Full Stack Web Development & AI Integration**
 - 💬 Ask me about: **Frontend Development, Backend Development, React.js, node.js, REST APIs**
