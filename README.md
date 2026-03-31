@@ -20,8 +20,6 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="340" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" />
-
 ```typescript
 const aayush: Developer = {
   name:       "Aayush Rai",
