@@ -125,6 +125,19 @@ const aayush = {
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+| Badge | Achievement | Details |
+|:---:|---|---|
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60" /> | **YOLO** | Merged a pull request without a review — living on the edge! 🎯 |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" /> | **Pull Shark × 2** | Opened pull requests that have been merged — twice over! 🦈🦈 |
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
