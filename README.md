@@ -4,13 +4,13 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=2%2B+Years+of+Full+Stack+Development;React.js+%7C+Node.js+%7C+MongoDB+%7C+TypeScript;Integrating+AI+into+Real+Products;Always+Learning+%E2%80%94+Always+Shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=3%2B+Years+of+Full+Stack+Development;React.js+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Integrating+AI+into+Real+Products;Always+Learning+%E2%80%94+Always+Shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=aayush-rai12&label=Profile%20views&color=1f6feb&style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/badge/Experience-2%2B%20Years-39d353?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Experience-3%20Years-39d353?style=for-the-badge" />
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-f78166?style=for-the-badge" />
 
@@ -26,21 +26,18 @@ const aayush: Developer = {
   role:       "Full Stack Developer",
   location:   "Bhilai, Chhattisgarh 🇮🇳",
   company:    "Kandid Technologies",
-  experience: "2+ years in production environments",
-
+  experience: "3 years in Frontend and Backend",
   currently: {
-    building:  "Zozo — Mood-based Dating App 💘",
+    building:  "Working on indea",
     exploring: ["AI/ML Concepts", "LLM Integrations", "System Design"],
   },
-
   strengths: [
-    "Scalable React architectures",
-    "RESTful API design",
+    "Scalable React & Next.js architectures",
+    "RESTful API design + Node.js+ MySQL",
     "AI API integrations (OpenAI, Gemini)",
     "Performance optimization",
     "Agile / Scrum workflows",
   ],
-
   contact:  "ayush.wrk1212@gmail.com",
   funFact:  "Coffee → Code → Ship. Repeat. ☕🚀",
 };
@@ -72,7 +69,7 @@ const aayush: Developer = {
 
 **Project: Batesville Funeral Solutions Platform**
 
-- 🧩 Built production-grade **React.js** UI with reusable component libraries used across 10+ platform modules
+- 🧩 Built production-grade **React.js** UI with reusable component libraries used across multiple platform modules
 - 🗃️ Developed complex admin features — dynamic data tables, multi-step wizard forms, and filtered views
 - 🔗 Integrated RESTful APIs and third-party services enabling real-time, data-driven user experiences
 - 🤖 Integrated **OpenAI API** to power AI-driven UI features with dynamic, personalized response generation
@@ -121,6 +118,7 @@ const aayush: Developer = {
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
@@ -128,6 +126,28 @@ const aayush: Developer = {
 ---
 
 ## 📌 Projects
+
+### 👕 Ezion — Streetwear Ecommerce &nbsp; ![Status](https://img.shields.io/badge/⚡-In%20Progress-f78166?style=flat-square)
+
+> A Gen-Z premium streetwear ecommerce storefront, built end-to-end as the sole developer — from design system to checkout flow.
+
+| Feature | Status |
+|---|---|
+| Custom design system & component library | ✅ |
+| Product catalog, cart & wishlist | ✅ |
+| Global cart state with Zustand (persisted across sessions) | ✅ |
+| Checkout flow | 🔄 In Progress |
+| Fully responsive, mobile-first layout | ✅ |
+
+**Stack:** &nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white)
+
+[![Live](https://img.shields.io/badge/🌐-Live%20Demo-46E3B7?style=for-the-badge)](https://joy-clothes.vercel.app)
+
+---
 
 ### 📔 Emotion Diary Tracker &nbsp; ![Status](https://img.shields.io/badge/✓-Completed-39d353?style=flat-square)
 
@@ -138,6 +158,7 @@ const aayush: Developer = {
 | JWT Authentication & protected routes | ✅ |
 | Full CRUD journaling system | ✅ |
 | Google Gemini AI — empathetic feedback + music picks | ✅ |
+| Real-time chat (Socket.io) | ✅ |
 | Admin dashboard with large dataset optimization | ✅ |
 | Fully responsive UI | ✅ |
 
@@ -150,30 +171,6 @@ const aayush: Developer = {
 
 [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/aayush-rai12/EmotionTracker)
 [![Live](https://img.shields.io/badge/🌐-Live%20Demo-46E3B7?style=for-the-badge)](https://emotion-tracker-frontend.onrender.com)
-
----
-
-### 💘 Zozo Dating App &nbsp; ![Status](https://img.shields.io/badge/⚡-In%20Progress-f78166?style=flat-square)
-
-> A next-gen mood-based dating platform — matches users on real-time emotional state, not just photos.
-
-| Feature | Status |
-|---|---|
-| User Authentication (Login / Signup) | ✅ |
-| Profile management with image upload | ✅ |
-| Reusable React component architecture | ✅ |
-| Mood-based matching logic | 🔄 In Progress |
-| AI-powered chat & smart recommendations | 🔄 In Progress |
-| Gamified swiping experience | 🔜 Planned |
-
-**Stack:** &nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/aayush-rai12/zozo-dating)
 
 ---
 
@@ -200,6 +197,30 @@ const aayush: Developer = {
 
 [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/aayush-rai12/SkyServe_Task)
 [![Live](https://img.shields.io/badge/🌐-Live%20Demo-46E3B7?style=for-the-badge)](https://skyserve-task.onrender.com/)
+
+---
+
+### 💘 Zozo Dating App &nbsp; ![Status](https://img.shields.io/badge/⚡-In%20Progress-f78166?style=flat-square)
+
+> A next-gen mood-based dating platform — matches users on real-time emotional state, not just photos.
+
+| Feature | Status |
+|---|---|
+| User Authentication (Login / Signup) | ✅ |
+| Profile management with image upload | ✅ |
+| Reusable React component architecture | ✅ |
+| Mood-based matching logic | 🔄 In Progress |
+| AI-powered chat & smart recommendations | 🔄 In Progress |
+| Gamified swiping experience | 🔜 Planned |
+
+**Stack:** &nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/aayush-rai12/zozo-dating)
 
 ---
 
@@ -231,7 +252,7 @@ const aayush: Developer = {
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush.wrk1212@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-rai-b25006219/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayush-rai12)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayushrai1210)
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://aayush-s-portfolio-iota.vercel.app)
 
 <br/>
 
